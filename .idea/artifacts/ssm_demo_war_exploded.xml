@@ -1,0 +1,52 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ssm_demo:war exploded">
+    <output-path>$PROJECT_DIR$/target/ssm_demo-0.0.1-SNAPSHOT</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ssm_demo" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:3.2.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:3.2.4.RELEASE" />
+          <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.1.1" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:3.2.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aspects:3.2.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context-support:3.2.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:3.2.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-tx:3.2.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:3.2.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:3.2.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc-portlet:3.2.4.RELEASE" />
+          <element id="library" level="project" name="Maven: redis.clients:jedis:2.7.2" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-pool2:2.3" />
+          <element id="library" level="project" name="Maven: org.springframework.session:spring-session-data-redis:1.2.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.data:spring-data-redis:1.7.1.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.data:spring-data-keyvalue:1.1.1.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.data:spring-data-commons:1.12.1.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-oxm:4.2.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.session:spring-session:1.2.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.mybatis:mybatis:3.2.8" />
+          <element id="library" level="project" name="Maven: org.mybatis:mybatis-spring:1.2.0" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.38" />
+          <element id="library" level="project" name="Maven: jstl:jstl:1.2" />
+          <element id="library" level="project" name="Maven: commons-dbcp:commons-dbcp:1.4" />
+          <element id="library" level="project" name="Maven: commons-pool:commons-pool:1.5.4" />
+          <element id="library" level="project" name="Maven: commons-collections:commons-collections:3.2" />
+          <element id="library" level="project" name="Maven: org.aspectj:aspectjweaver:1.6.9" />
+          <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
+          <element id="library" level="project" name="Maven: cglib:cglib-nodep:2.2" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:3.2.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:3.2.4.RELEASE" />
+          <element id="library" level="project" name="Maven: com.alibaba:druid:1.0.15" />
+          <element id="library" level="project" name="Maven: junit:junit:4.9" />
+          <element id="library" level="project" name="Maven: org.hamcrest:hamcrest-core:1.1" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/ssm_demo-0.0.1-SNAPSHOT/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="ssm_demo/web/Web" />
+    </root>
+  </artifact>
+</component>
